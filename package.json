@@ -1,0 +1,15 @@
+{
+  "name": "anonotf-test-client",
+  "version": "0.1.0",
+  "description": "A complete test site exercising every @anonotf/connect feature — calls, group calls, live streaming, chat, raise hand, voice notes.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "form-data": "^4.0.0",
+    "dotenv": "^16.4.5"
+  }
+}
